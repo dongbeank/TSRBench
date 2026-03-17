@@ -5,7 +5,7 @@
 ![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 [![PyPI](https://img.shields.io/pypi/v/tsrbench)](https://pypi.org/project/tsrbench/)
-[![Downloads](https://img.shields.io/pypi/dt/tsrbench)](https://pypi.org/project/tsrbench/)
+[![Downloads](https://img.shields.io/pepy/dt/tsrbench)](https://pypi.org/project/tsrbench/)
 
 TSRBench injects realistic corruptions into **any** time series data. Point your CSV at it and get corrupted versions out -- no special formatting, no domain restrictions. It works on sensor readings, stock prices, weather logs, energy consumption, medical signals, or any tabular time series.
 
